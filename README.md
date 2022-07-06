@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there
+If you reach here with a direct link given to you, I changed my Github username to @returnednull.
+If not, nothing to do here. You can check my profile @returnednull
+
 
 <!--
 **orhancekic/orhancekic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
