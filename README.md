@@ -1,6 +1,6 @@
 ### Hello there
-If you reach here with a direct link given to you, I changed my Github username to @returnednull.
-If not, nothing to do here. You can check my profile @returnednull
+If you reach here with a direct link given to you, I changed my Github username to [@returnednull](https://github.com/returnednull).
+If not, nothing to do here. You can check my profile [@returnednull](https://github.com/returnednull).
 
 
 <!--
